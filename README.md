@@ -40,18 +40,18 @@ Currently spending most of my time in mobile development and IoT integration, wi
 ## Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Tejas3545&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy-tejas3545.vercel.app/?username=Tejas3545&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejas3545&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-tejas3545.vercel.app/api?username=Tejas3545&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
   <img height="165" src="https://streak-stats.demolab.com/?user=Tejas3545&hide_border=true&background=0d1117&stroke=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas3545&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&cache_seconds=86400" />
+  <img width="400" src="https://github-readme-stats-tejas3545.vercel.app/api/top-langs/?username=Tejas3545&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
 </p>
 
 ---
