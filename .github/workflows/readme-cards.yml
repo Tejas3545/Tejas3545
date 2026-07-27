@@ -22,7 +22,7 @@ jobs:
         with:
           username: Tejas3545
           file: profile-assets/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
