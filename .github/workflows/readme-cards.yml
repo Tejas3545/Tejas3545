@@ -21,7 +21,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Tejas3545
-          output_path: profile-assets/trophy.svg
+          file: profile-assets/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate stats card
