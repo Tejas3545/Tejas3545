@@ -1,4 +1,5 @@
-<h1>Hey, I'm Tejas <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="25px"></h1>
+<h1>Hey, I'm Tejas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="25px"></h1>
 
 <a href="https://www.linkedin.com/in/tejas-j-solanki2476/">
   <img align="left" alt="Tejas | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
@@ -13,7 +14,7 @@
 
 <br>
 
-I build software that has to actually work once the demo's over — native Android apps, IoT systems that talk to real hardware, and backend services underneath them. I move between Kotlin, Python, and PHP depending on what the problem needs rather than sticking to one stack out of habit, and I'm just as comfortable debugging a dead touch sensor with a multimeter as I am shipping a UI.
+I build software that has to actually work once the demo's over native Android apps, IoT systems that talk to real hardware, and backend services underneath them. I move between Kotlin, Python, and PHP depending on what the problem needs rather than sticking to one stack out of habit, and I'm just as comfortable debugging a dead touch sensor with a multimeter as I am shipping a UI.
 
 Currently spending most of my time in mobile development and IoT integration, with backend and applied ML in the mix whenever a project calls for it.
 
