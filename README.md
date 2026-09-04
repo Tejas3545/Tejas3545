@@ -32,7 +32,7 @@ Currently spending most of my time in mobile development and IoT integration, wi
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas3545&theme=react-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" />
 </p> -->
 <p align="center">
-![snake](https://raw.githubusercontent.com/Tejas3545/Tejas3545/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Tejas3545/Tejas3545/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ## 3D Contribution Calendar
