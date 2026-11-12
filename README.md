@@ -1,16 +1,16 @@
-<h1>Hey, I'm Tejas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/wave.gif" width="25px"></h1>
+<h1>Hey, I'm Tejas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/></h1>
 
-<a href="https://www.linkedin.com/in/tejas-j-solanki2476/">
-  <img align="left" alt="Tejas | LinkedIn" width="30" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
-</a>
-<a href="mailto:tejassolanki5881@gmail.com">
-  <img align="left" alt="Tejas | Email" width="30" src="https://www.svgrepo.com/show/452213/gmail.svg" />
-</a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tejas3545&label=Views&color=38bdf8&style=flat)
-![Followers](https://img.shields.io/github/followers/Tejas3545?label=Followers&style=flat&color=38bdf8)
-![Stars](https://img.shields.io/github/stars/Tejas3545?affiliations=OWNER&style=flat&color=38bdf8)
+<p>
+  <a href="https://www.linkedin.com/in/tejas-j-solanki2476/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tejassolanki5881@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tejas3545&label=Views&color=38bdf8&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Tejas3545?label=Followers&style=flat&color=38bdf8" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Tejas3545?affiliations=OWNER&style=flat&color=38bdf8" alt="Stars" />
+</p>
 
 <br>
 
@@ -22,7 +22,7 @@ Currently spending most of my time in mobile development and IoT integration, wi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin,flutter,dart,python,django,php,laravel,raspberrypi,sqlite,mysql,git,github,vscode,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,python,django,php,laravel,raspberrypi,sqlite,mysql,git,github,vscode,figma&perline=14" />
   </a>
 </p>
 
